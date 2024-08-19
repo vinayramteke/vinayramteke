@@ -54,13 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 
-<h2 align="left">GitHub Stats</h2>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="flex: 1; max-width: 500px; padding: 10px; border: 1px solid #e1e4e8; border-radius: 10px; box-sizing: border-box;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayramteke&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 1; max-width: 500px; padding: 10px; border: 1px solid #e1e4e8; border-radius: 10px; box-sizing: border-box;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinayramteke&theme=dark" alt="Streak Stats" style="width: 100%; height: auto;" />
-  </div>
-</div>
