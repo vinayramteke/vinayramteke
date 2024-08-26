@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif" alt="Hello World Animation" />
+</h1>
 
 <p align="center">
   I'm <strong>Vinay Ramteke</strong>, a passionate <strong>MERN Full Stack Developer</strong> from India, currently in my pre-final year of engineering at <strong>NIT Hamirpur</strong>.
@@ -47,4 +50,22 @@
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
+</p>
+
+<h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vinayramteke&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayramteke&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayramteke&bg_color=0d1117&color=58a6ff&line=58a6ff&point=444c56&area_color=2d333b&title_color=ffffff&area=true&hide_border=true" alt="Animated GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
 </p>
