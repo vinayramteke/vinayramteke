@@ -62,9 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayramteke&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayramteke&bg_color=0d1117&color=58a6ff&line=58a6ff&point=444c56&area_color=2d333b&title_color=ffffff&area=true&hide_border=true" alt="Animated GitHub Activity Graph" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
