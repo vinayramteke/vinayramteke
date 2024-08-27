@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" />
-</p>
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif" alt="Hello World Animation" />
 </h1>
