@@ -3,9 +3,6 @@
   <img src="https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif" alt="Hello World Animation" />
 </h1>
 
-<p align="center">
-  I'm <strong>Vinay Ramteke</strong>, a passionate <strong>MERN Full Stack Developer</strong> from India, currently in my pre-final year of engineering at <strong>NIT Hamirpur</strong>.
-</p>
 
 <h2 align="center">About Me</h2>
 
